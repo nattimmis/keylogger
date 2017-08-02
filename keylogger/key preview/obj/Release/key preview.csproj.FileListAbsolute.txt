@@ -1,0 +1,21 @@
+C:\Users\Root\Desktop\key preview\key preview\obj\Release\key preview.csprojResolveAssemblyReference.cache
+C:\Users\Root\Desktop\key preview\key preview\obj\Release\key_preview.globalKeyboardHook.resources
+C:\Users\Root\Desktop\key preview\key preview\obj\Release\key preview.csproj.GenerateResource.Cache
+C:\Users\Root\Desktop\key preview\key preview\bin\Release\Root.exe.config
+C:\Users\Root\Desktop\key preview\key preview\bin\Release\Root.exe
+C:\Users\Root\Desktop\key preview\key preview\bin\Release\Root.pdb
+C:\Users\Root\Desktop\key preview\key preview\obj\Release\Root_XM7MD_VX.Properties.Resources.resources
+C:\Users\Root\Desktop\key preview\key preview\obj\Release\Root.exe
+C:\Users\Root\Desktop\key preview\key preview\obj\Release\Root.pdb
+C:\Users\Root\Desktop\#Root XM7MD_VX Keylogger\key preview\bin\Release\Root.exe.config
+C:\Users\Root\Desktop\#Root XM7MD_VX Keylogger\key preview\obj\Release\Root.exe
+C:\Users\Root\Desktop\#Root XM7MD_VX Keylogger\key preview\obj\Release\Root.pdb
+C:\Users\Chris\Desktop\#Root XM7MD_VX Keylogger\#Root XM7MD_VX Keylogger\key preview\bin\Release\Root.exe.config
+C:\Users\Chris\Desktop\#Root XM7MD_VX Keylogger\#Root XM7MD_VX Keylogger\key preview\bin\Release\Root.exe
+C:\Users\Chris\Desktop\#Root XM7MD_VX Keylogger\#Root XM7MD_VX Keylogger\key preview\bin\Release\Root.pdb
+C:\Users\Chris\Desktop\#Root XM7MD_VX Keylogger\#Root XM7MD_VX Keylogger\key preview\obj\Release\key preview.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\#Root XM7MD_VX Keylogger\#Root XM7MD_VX Keylogger\key preview\obj\Release\key_preview.globalKeyboardHook.resources
+C:\Users\Chris\Desktop\#Root XM7MD_VX Keylogger\#Root XM7MD_VX Keylogger\key preview\obj\Release\Root_XM7MD_VX.Properties.Resources.resources
+C:\Users\Chris\Desktop\#Root XM7MD_VX Keylogger\#Root XM7MD_VX Keylogger\key preview\obj\Release\key preview.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\#Root XM7MD_VX Keylogger\#Root XM7MD_VX Keylogger\key preview\obj\Release\Root.exe
+C:\Users\Chris\Desktop\#Root XM7MD_VX Keylogger\#Root XM7MD_VX Keylogger\key preview\obj\Release\Root.pdb
